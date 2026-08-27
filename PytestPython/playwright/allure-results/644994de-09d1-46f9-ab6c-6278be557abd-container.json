@@ -1,0 +1,1 @@
+{"uuid": "bcfa9084-8f36-4b8e-b6c9-beb373b22985", "children": ["a1e0aab8-84d8-4903-8d85-d5a396b7748d"], "befores": [{"name": "should_create_wf", "status": "passed", "start": 1787815387957, "stop": 1787815387957}], "afters": [{"name": "should_create_wf::<lambda>", "start": 1787815714720}], "start": 1787815387957, "stop": 1787815714720}
